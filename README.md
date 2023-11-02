@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=summ2020e&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=summ2020&show_icons=true&theme=transparent)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/summ2020/count.svg)
