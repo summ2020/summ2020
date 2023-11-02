@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github-readme-stats.vercel.app/api?username=summ2020e&show_icons=true&theme=transparent)
+
+
+![Visitor Count](https://profile-counter.glitch.me/summ2020/count.svg)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=summ2020&layout=compact&theme=tokyonight)
